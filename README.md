@@ -168,6 +168,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Octions - GitHub Actions for GitHub REST API](https://github.com/maxkomarychev/octions)
 - [GitHub Actions for Docker](https://github.com/docker/github-actions)
 - [GitHub Actions for AWS](https://github.com/clowdhaus/aws-github-actions)
+- [GitHub Actions for AzureRm](https://github.com/ahmedig/terraform-azurerm-backend)
 - [Actions Hub](https://github.com/actionshub)
 
 ### Utility
@@ -228,6 +229,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GitHub Action Locks](https://github.com/abatilo/github-action-locks/blob/master/README.md) - Guarantee atomic execution of your GitHub Action workflows.
 - [Paths Filter](https://github.com/dorny/paths-filter) - Conditionally run actions based on files modified by PR, feature branch or pushed commits.
 - [Minisauras](https://github.com/TeamTigers/minisauras) -  Pulls all the JavaScript and CSS files from your base branch, minify them and creates a pull-request with a new branch.
+- [GitHub Stats Card](https://github.com/datarootsio/github-stats-card) - A minimal but inclusive GitHub stats badge. 
 
 #### Environments
 
@@ -371,6 +373,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Annotate a GitHub Pull Request Based on a Checkstyle XML-Report](https://github.com/staabm/annotate-pull-request-from-checkstyle)
 - [Pull Request Stats](https://github.com/flowwer-dev/pull-request-stats) -  Print relevant stats about reviewers.
 - [Pull Request Description Enforcer](https://github.com/derkinderfietsen/pr-description-enforcer) - Enforces description on pull requests.
+- [Recap](https://github.com/flowwer-dev/recap) - Summarize the most significant changes in a pull request using GPT.
+- [Get Merged Pull Requests](https://github.com/VanOns/get-merged-pull-requests-action) - GitHub action that compares 2 tags and retrieves all pull requests merged between them.
 
 ### GitHub Pages
 
@@ -480,6 +484,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - [Generate terraform documentation](https://github.com/Dirrk/terraform-docs) - Uses terraform-docs to generate docs for terraform modules.
 - [An example of using Terraform to validate and apply GitHub administration](https://github.com/asgharlabs/github-terraform/tree/master/.github/workflows)
+- [Infracost](https://github.com/infracost/infracost-gh-action) - Cloud cost estimates for Terraform in your pull requests.
 
 ### External Services
 
